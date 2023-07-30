@@ -1,0 +1,47 @@
+
+.how-to-use-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+ 
+  h1 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  h2 {
+    margin-bottom: 10px;
+    color: aliceblue;
+  }
+
+  p{
+    color:aliceblue;
+  }
+  
+
+  .section {
+    margin-bottom: 30px;
+    border: 1px solid #023047;
+    padding: 20px;
+    background-color:#023047 ;
+    border-radius: 5px;
+  }
+
+  .section:hover{
+    background-color: #fb8500;
+  }
+  
+  .section img {
+    max-width: 100%;
+    display: block;
+    margin: 20px auto;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+
+ 
+  
+
+  
